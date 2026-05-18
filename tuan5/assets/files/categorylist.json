@@ -1,0 +1,40 @@
+{
+    "data":
+    [
+        {
+            "id": 1,
+            "name": "Iphone",
+            "img": "iphone.png"
+        },
+        {
+            "id": 2,
+            "name": "Samsung",
+            "img": "samsung.png"
+        },
+        {
+            "id": 3,
+            "name": "Google",
+            "img": "google.png"
+        },
+        {
+            "id": 4,
+            "name": "Xiaomi",
+            "img": "xiaomi.png"
+        },
+        {
+            "id": 5,
+            "name": "Nokia",
+            "img": "nokia.png"
+        },
+        {
+            "id": 6,
+            "name": "Oppo",
+            "img": "oppo.png"
+        },
+        {
+            "id": 7,
+            "name": "Realme",
+            "img": "realme.png"
+        }
+    ]
+}
